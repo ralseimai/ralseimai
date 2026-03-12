@@ -24,8 +24,8 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 ## Get in touch
 I make getting in touch with me deliberately easy for transparency sake. **With that being said however**, I do have the right to set boundaries to who and when someone can contact me.
 
-Discord: luma.ini
-Stoat.chat: LumaFS#2754
-Email: hello@lumanesence.co.uk
+* Discord: luma.ini
+* Stoat.chat: LumaFS#2754
+* Email: hello@lumanesence.co.uk
 
 **Proud to be supporting Reform UK!**
