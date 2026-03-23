@@ -9,6 +9,7 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
+* [DIYTicketer - A Ticketer machine that I'm building myself, since getting an actual one is very complicated](https://github.com/lumanesence/diyticketer)
 ## My upcoming projects
 * KristalModManager (KMM) - A simple mod manager for the Kristal DELTARUNE engine - Will be written in Python at first before moving to a more well known and professional language like C#/C++
 
