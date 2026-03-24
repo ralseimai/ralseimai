@@ -26,8 +26,14 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 ## Get in touch
 I make getting in touch with me deliberately easy for transparency sake. **With that being said however**, I do have the right to set boundaries to who and when someone can contact me. These methods are listed in how often I check them. **I will only ever close my DMs or contact lines if I am under heavy harassment from an individual our group of people.** If someone tries to reach out to you that claims to be me that isn't using any of the methods linked below, **then it most likely isn't me**. I am impersonated very often, so please make sure that whatever I claim to contact you on matches to the following:
 
-* Discord: luma.ini
-* Email: hello@lumanesence.co.uk
+### Discord
+* Main account: luma.ini
+### Emails
+* Main: hello@lumanesence.co.uk
+* Business: thomas.hall@onelyte.uk
+### Other
+* Telegram: https://telegram.org/@lmnsence
+* 
 * Stoat.chat: LumaFS#2754
 
 
