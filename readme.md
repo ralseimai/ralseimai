@@ -29,8 +29,8 @@ I make getting in touch with me deliberately easy for transparency sake. **With 
 ### Discord
 * Main account: luma.ini
 ### Emails
-* Main: hello@lumanesence.co.uk
-* Business: thomas.hall@onelyte.uk
+* Main (for general communication outside of business): hello@lumanesence.co.uk
+* Business (strictly for business communication only): thomas.hall@onelyte.uk
 ### Other
 * Telegram: https://telegram.org/@lmnsence
 * 
