@@ -8,6 +8,7 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 * Managing Director at The OneLyte Association
 * Level 1 Vocational IT Student at London South East Colleges
 
+
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
@@ -35,8 +36,8 @@ I make getting in touch with me deliberately easy for transparency sake. **With 
 * Business (strictly for business communication only): thomas.hall@onelyte.uk
 ### Other
 * Telegram: https://telegram.org/@lmnsence
-* 
-* Stoat.chat: LumaFS#2754
+* Facebook: [Lumanesence](https://www.facebook.com/profile.php?id=61574513024844) 
+* Stoat.chat (Not Reccomended): LumaFS#2754
 
 
 **Proud to be supporting Reform UK!**
