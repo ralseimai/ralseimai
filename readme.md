@@ -25,6 +25,8 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 * Gruffy.hx (aka Makstreetdeck): https://guns.lol/gruffy.hx
 * Oliverstech (aka OliverHD): https://electronest.co.uk
 * es.10 (aka eslash): https://github.com/Eslash-Sdot10
+* Matthewsbuses1997: https://youtube.co.uk/@matthewsbuses1997
+* KristinaMoment: https://github.com/KristinaMoment
 
 ## Get in touch
 I make getting in touch with me deliberately easy for transparency sake. **With that being said however**, I do have the right to set boundaries to who and when someone can contact me. These methods are listed in how often I check them. **I will only ever close my DMs or contact lines if I am under heavy harassment from an individual our group of people.** If someone tries to reach out to you that claims to be me that isn't using any of the methods linked below, **then it most likely isn't me**. I am impersonated very often, so please make sure that whatever I claim to contact you on matches to the following:
