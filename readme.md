@@ -9,6 +9,11 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 * Level 1 Vocational IT Student at London South East Colleges
 
 
+## Current interests
+* Nintendo Switch modding
+* AI music (Suno, Udio, etc.)
+* Music distribution (Revelator, DistroKid, etc.)
+  
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
