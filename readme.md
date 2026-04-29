@@ -10,7 +10,7 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 
 
 ## Current interests
-* Nintendo Switch modding
+* Nintendo Switch modding (though I kind of suck at it x_x)
 * AI music (Suno, Udio, etc.)
 * Music distribution (Revelator, DistroKid, etc.)
   
