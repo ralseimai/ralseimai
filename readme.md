@@ -1,8 +1,9 @@
+Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, really? I'm just a really simple guy that makes stuff online!
+
+## Notices
 #### My website, lumanesence.co.uk, will be going down on June 1st 2026 until June 10th 2026 (extended due to reasoning beyond my control) to pay respects to Rec Room's impending shutdown. Read why I'm doing this here: https://lumanesence.co.uk/recroom.html
 
 **NEW: Check me out on ONCE OpenBeta! https://beta.once.app/u/33bc5e86-713f-433b-92b0-b5112b45df56**
-
-Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, really? I'm just a really simple guy that makes stuff online!
 
 ## Current positions
 * Managing Director at The OneLyte Association
