@@ -15,6 +15,7 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 * Tomodachi Life: Living the Dream (I've played through both the Japanese DS release and the worldwide 3DS release, so it's a no-brainer why this is here)
 * AI music (Suno, Udio, etc.)
 * Music distribution (Revelator, DistroKid, etc.)
+* [Old Phones](https://github.com/lumanesence/phones)
   
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
