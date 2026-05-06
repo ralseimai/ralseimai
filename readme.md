@@ -3,13 +3,10 @@ Hey, I'm Thomas. I make and host stuff on the internet. What else can I say, rea
 ## Notices
 #### My website, lumanesence.co.uk, will be going down on June 1st 2026 until June 10th 2026 (extended due to reasoning beyond my control) to pay respects to Rec Room's impending shutdown. Read why I'm doing this here: https://lumanesence.co.uk/recroom.html
 
-**NEW: Check me out on ONCE OpenBeta! https://beta.once.app/u/33bc5e86-713f-433b-92b0-b5112b45df56**
-
 ## Current positions
 * Managing Director at The OneLyte Association
 * Level 1 Vocational IT Student at London South East Colleges
 * Voluntary Tester for ONCE.app
-
 
 ## Current interests
 * Nintendo Switch modding (though I kind of suck at it x_x)
@@ -40,7 +37,7 @@ This section is for stuff that I don't have the money or time for to where I've 
 * es.10 (aka eslash): https://github.com/Eslash-Sdot10
 * Matthewsbuses1997: https://youtube.co.uk/@matthewsbuses1997
 * KristinaMoment: https://github.com/KristinaMoment
-
+* CiberBoy: https://ciberboy.neocities.org
 ## Get in touch
 I make getting in touch with me deliberately easy for transparency sake. **With that being said however**, I do have the right to set boundaries to who and when someone can contact me. These methods are listed in how often I check them. **I will only ever close my DMs or contact lines if I am under heavy harassment from an individual our group of people.** If someone tries to reach out to you that claims to be me that isn't using any of the methods linked below, **then it most likely isn't me**. I am impersonated very often, so please make sure that whatever I claim to contact you on matches to the following:
 
