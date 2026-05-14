@@ -53,4 +53,5 @@ I make getting in touch with me deliberately easy for transparency sake. **With 
 * Stoat.chat (Not Reccomended): LumaFS#2754
 
 
-**Proud to be supporting Reform UK!**
+**Proud to be supporting Reform UK!** Got a problem with that? 
+Complain on icantrespectotherpeoplesopinions@lumanesence.co.uk
