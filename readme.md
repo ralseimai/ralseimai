@@ -6,7 +6,7 @@ Hey, I'm Thomas, but please, call me Luma! I make and host stuff on the internet
 
 
 ## Current positions
-* Managing Director at The OneLyte Association and Nightedge Recordings UK
+* Managing Director at The OneLyte Association
 * Level 1 Vocational IT Student at London South East Colleges (with a conditional offer to move to Level 2!)
 * Voluntary Tester for ONCE.app
 
