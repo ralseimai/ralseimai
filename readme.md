@@ -41,7 +41,6 @@ This section is for stuff that I don't have the money or time for to where I've 
 * Electrofyber (aka KotekZBiceps): https://electrofyber.cfd
 * Gruffy.hx (aka Makstreetdeck): https://guns.lol/gruffy.hx
 * Oliverstech (aka OliverHD): https://electronest.co.uk
-* es.10 (aka eslash): https://github.com/Eslash-Sdot10
 * Matthewsbuses1997: https://youtube.co.uk/@matthewsbuses1997
 * KristinaMoment: https://github.com/KristinaMoment
 * CiberBoy: https://ciberboy.neocities.org
