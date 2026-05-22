@@ -16,7 +16,13 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 * AI music (Suno, Udio, etc.)
 * Music distribution (Revelator, DistroKid, etc.)
 * [Old Phones](https://github.com/lumanesence/phones)
-  
+
+## What I use on a day to day basis
+* Main Phone: Honor X6C
+* Main Workstation: Dell OptiPlex 990 SSF
+* Main Laptop: ~~Lenovo ThinkPad E580~~ <- Currently out of action due to an ongoing BIOS fault
+
+
 ## My current projects
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
