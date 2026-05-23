@@ -23,7 +23,9 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 ## What I use on a day to day basis
 * Main Phone: Honor X6C
 * Main Workstation: Dell OptiPlex 990 SSF
+* Backup Workstation: Lenovo ThinkCentre M73 Tiny
 * Main Laptop: ~~Lenovo ThinkPad E580~~ <- Currently out of action due to an ongoing BIOS fault
+* Watch: OPPO Watch Free
 
 
 ## My current projects
