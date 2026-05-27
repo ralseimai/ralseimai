@@ -25,7 +25,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 * Main Workstation: Dell OptiPlex 990 SSF
 * Backup Workstation: Lenovo ThinkCentre M73 Tiny
 * Main Laptop: ~~Lenovo ThinkPad E580~~ <- Currently out of action due to an ongoing BIOS fault
-* Backup Laptop: HP Laptop 13-dq3xxxx <- Loaning this from my brother since my ThinkPad is still complete pizdec
+* Backup Laptop: HP Laptop 13-dq3500sa <- Loaning this from my brother since my ThinkPad is still complete pizdec
 * Watch: OPPO Watch Free
 
 
