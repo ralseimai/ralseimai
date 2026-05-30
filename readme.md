@@ -22,10 +22,9 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 
 ## What I use on a day to day basis
 * Main Phone: Honor X6C
-* Main Workstation: Dell OptiPlex 990 SSF
-* Backup Workstation: Lenovo ThinkCentre M73 Tiny
-* Main Laptop: ~~Lenovo ThinkPad E580~~ <- Currently out of action due to an ongoing BIOS fault
-* Backup Laptop: HP Laptop 13-dq3500sa <- Loaning this from my brother since my ThinkPad is still complete pizdec
+* Main Workstation: Dell OptiPlex 990 SSF (running Windows 11 LTSC)
+* Backup Workstation: Lenovo ThinkCentre M73 Tiny (running Fedora Workstation 44)
+* Main Laptop: Lenovo ThinkPad E580 (running Fedora Workstation 44)
 * Watch: OPPO Watch Free
 
 
