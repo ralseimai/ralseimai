@@ -2,7 +2,7 @@
 > My username on GitHub has changed from "lumanesence" to "ralseimai"
 
 > [!CAUTION]
-> My website, lumanesence.co.uk, will be going down within the next few hours until June 10th 2026 (extended due to reasoning beyond my control) to pay respects to Rec Room's impending shutdown. Read why I'm doing this here: https://lumanesence.co.uk/recroom.html
+> I am currently in the process of shutting my websites down for 9 days in commemoration of Rec Room's shutdown. Read why I'm doing this here: https://lumanesence.co.uk/recroom.html
 <hr />
 Hey, I'm Thomas! I make and host stuff on the internet. :>
 
