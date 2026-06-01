@@ -59,6 +59,7 @@ I make getting in touch with me deliberately easy for transparency sake. **With 
 * Business (strictly for business communication only): thomas.hall@onelyte.uk
 ### Other
 * Telegram: https://telegram.org/@lmnsence
+* Nerimity: lumanesence:lmao
 * Facebook: [Lumanesence](https://www.facebook.com/profile.php?id=61574513024844) 
 * Stoat.chat (Not Reccomended): LumaFS#2754
 
