@@ -2,7 +2,7 @@
 > My username on GitHub has changed from "lumanesence" to "ralseimai"
 
 > [!CAUTION]
-> I am currently in the process of shutting my websites down for 9 days in commemoration of Rec Room's shutdown. Read why I'm doing this here: https://lumanesence.co.uk/recroom.html
+> My website (as well as the PTB build) has been shutdown for until June 1st 2026, in commemoration of Rec Room's shutdown. 
 <hr />
 Hey, I'm Thomas! I make and host stuff on the internet. :>
 
