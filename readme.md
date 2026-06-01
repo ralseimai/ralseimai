@@ -15,6 +15,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 
 ## Current interests
 * Nintendo Switch modding (though I kind of suck at it x_x)
+* Bus and Rail travel
 * Tomodachi Life: Living the Dream (I've played through both the Japanese DS release and the worldwide 3DS release, so it's a no-brainer why this is here)
 * AI music (Suno, Udio, etc.)
 * Music distribution (Revelator, DistroKid, etc.)
