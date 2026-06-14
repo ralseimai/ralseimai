@@ -27,7 +27,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 
 
 ## My current projects
-* a-amu - A service to connect Discord, Nerimity ReChat (Rec Room Revival) and Websim together, easily
+* a-amusement - A service to connect Discord, Nerimity ReChat (Rec Room Revival) and Websim together, easily
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
 * [KristalModManager (KMM)](https://kristal.lumanesence.co.uk) - A simple mod manager for the Kristal DELTARUNE engine - Will be written in Python at first before moving to a more well known and professional language like C#/C++
