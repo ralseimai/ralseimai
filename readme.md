@@ -30,6 +30,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 * [TESCORUNEInstaller - A simple installer for i-win's TESCORUNE mod written in NSIS](https://github.com/lumanesence/TESCORUNEInstaller)
 * [So I Was Bored - A selfhostable game website for use in school or just in general!](https://github.com/lumanesence/soiwasbored)
 * [KristalModManager (KMM)](https://kristal.lumanesence.co.uk) - A simple mod manager for the Kristal DELTARUNE engine - Will be written in Python at first before moving to a more well known and professional language like C#/C++
+* a-amusement network - A service to connect Discord, Nerimity ReChat (Rec Room Revival) and Websim together, easily
 ## Stuff on the backburner
 This section is for stuff that I don't have the money or time for to where I've had to effectively suspend it
 * [DIYTicketer - A Ticketer machine that I'm building myself, since getting an actual one is very complicated](https://github.com/lumanesence/diyticketer)
