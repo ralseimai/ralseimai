@@ -16,13 +16,16 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 * Tomodachi Life: Living the Dream (I've played through both the Japanese DS release and the worldwide 3DS release, so it's a no-brainer why this is here)
 * AI music (Suno, Udio, etc.)
 * Music distribution (Revelator, DistroKid, etc.)
-* [Old Phones](https://github.com/lumanesence/phones)
+* Dance rhythm games (ie Dance Dance Revolution, Stepmania, etc)
+* [Old Phones](https://github.com/ralseimai/phones)
 
 ## What I use on a day to day basis
 * Main Phone: Honor X6C
+* Backup Phone: Microsoft Lumia 640 LTE
 * Main Workstation: Dell OptiPlex 990 SSF (running Windows 11 LTSC)
-* Backup Workstation: Lenovo ThinkCentre M73 Tiny (running Fedora Workstation 44)
-* Main Laptop: Lenovo ThinkPad E580 (running Fedora Workstation 44)
+* Backup Workstation: Lenovo ThinkCentre M73 Tiny (running Google ChromeOS Flex)
+* Main Laptop: Lenovo ThinkPad E580 (running Windows 10 22H2)
+* Backup Laptop: Lenovo v130-14ikb 81HQ (running Google ChromeOS Flex)
 * Watch: OPPO Watch Free
 
 
