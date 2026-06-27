@@ -7,7 +7,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 
 ## Current positions
 * Managing Director at The OneLyte Association and a-amu
-* Level 1 Vocational IT Student at London South East Colleges (with a conditional offer to move to Level 2!)
+* Level 1 IT Student at London South East Colleges (Currently Awaiting Course Changeover)
 * Voluntary Tester for ONCE.app
 
 ## Current interests
