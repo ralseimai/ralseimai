@@ -44,7 +44,6 @@ This section is for stuff that I don't have the money or time for to where I've 
 * exyvt <3: https://sites.google.com/view/exyvt
 * Aliorio: https://aliorio.carrd.co
 * matthewcatsey: https://youtube.co.uk/@matthewcatsey
-* Lerainzer: https://lerainzer.cfd
 * Electrofyber (aka KotekZBiceps): https://electrofyber.cfd
 * Gruffy.hx (aka Makstreetdeck): https://guns.lol/gruffy.hx
 * Oliverstech (aka OliverHD): https://electronest.co.uk
