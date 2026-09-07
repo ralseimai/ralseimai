@@ -7,7 +7,7 @@ Hey, I'm Thomas! I make and host stuff on the internet. :>
 
 ## Current positions
 * Managing Director at The OneLyte Association and a-amu
-* Level 1 IT Student at London South East Colleges (Currently Awaiting Changeover)
+* Level 1 Digital Media Student at London South East Colleges Bromley (Bromley College of Further and Higher Education)
 * Ticket and Discord Moderator for ONCE.app
 
 ## Current interests
